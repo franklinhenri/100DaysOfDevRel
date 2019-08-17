@@ -4,3 +4,4 @@
 ## Index
 
 1. [DevRel Tools and Resources](00_devrel_resources_and_tools) - Collection of useful tools and resources for DevRel folks.
+2. [Defining Developer Relations](01_defining_developer_relations) - Understanding what Developer Relations is all about, Why it exists and how to build it.
