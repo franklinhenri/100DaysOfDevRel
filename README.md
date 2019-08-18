@@ -1,4 +1,6 @@
-👋Welcome to [#100DaysOfDevRel](https://twitter.com/search?q=%23100DaysOfDevRel&src=hashtag_click) - 
+![100daysofdeveloperrelations](https://user-images.githubusercontent.com/19341550/63220420-ab0c0600-c1a4-11e9-9de8-2271cbfa2680.jpg)
+
+👋[#100DaysOfDevRel](https://twitter.com/search?q=%23100DaysOfDevRel&src=hashtag_click) - 
 100 Days of DevRel (Developer Relations). Exploring &amp; documenting the DevRel journey. Developer Advocates/ Evangelists/ Community Peeps &amp; DevRel folks - Contributions are welcome 🎉
 
 ## Index
