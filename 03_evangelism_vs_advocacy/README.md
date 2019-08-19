@@ -1,6 +1,6 @@
 ## Evangelism vs Advocacy
 
-Its easy to get confused between the two and hence it is important to make a distinction. I personally remember the difference using a mnemonic - *ETAL*
+It is easy to get confused between the two and hence it is important to make a distinction. I personally remember the difference using a mnemonic - *ETAL*
 
 ### "Evangelists Tell. Advocates Listen"
 
