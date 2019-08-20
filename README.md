@@ -7,3 +7,4 @@
 1. [DevRel Tools and Resources](00_devrel_resources_and_tools) - Collection of useful tools and resources for DevRel folks.
 2. [Defining Developer Relations](01_defining_developer_relations) - Understanding what Developer Relations is all about, Why it exists and how to build it.
 3. [Evangelism vs Advocacy](03_evangelism_vs_advocacy) - Difference between evangelism and advocacy - Developer Evangelist vs Developer Advocate.
+4. [Developer Experience](04_dx_developer_experience) - What is developer experience (DX) and why does it matter ?
