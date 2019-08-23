@@ -9,3 +9,4 @@
 3. [Evangelism vs Advocacy](03_evangelism_vs_advocacy) - Difference between evangelism and advocacy - Developer Evangelist vs Developer Advocate.
 4. [Developer Experience](04_dx_developer_experience) - What is developer experience (DX) and why does it matter ?
 5. [Platform vs Product](02_platform_vs_product) - How do platforms differ from product ?
+6. [Time-To-Whatever](05_time_to_whatever) - How quick can you let the developers do the stuff that they want to do ?
