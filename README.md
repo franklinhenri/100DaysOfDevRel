@@ -11,3 +11,5 @@
 5. [Platform vs Product](02_platform_vs_product) - How do platforms differ from product ?
 6. [Time-To-Whatever](05_time_to_whatever) - How quick can you let the developers do the stuff that they want to do ?
 7. [Developer Personas](06_developer_personas) - Tailoring our efforts and initiatives for each developer might be a challenge unless we have identified developer personas.
+8. [Importance of Community](07_importance_of_community) - A developer community is crucial to the success of a platform. It is important to nurture the same. 
+9. [Guidelines](08_guidelines_are_important) - Guidelines should guide, not restrict.
