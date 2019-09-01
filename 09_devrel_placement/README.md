@@ -1,0 +1,7 @@
+## Where does DevRel sit ?
+
+Developer Relations team can come under engineering, marketing, support or product. It's alignment depends upon what the company wants to achieve and from which perspective. Ideally, the positioning of DevRel teams either come under engineering or marketing most of the time. As the name 'Developer Relations' implies, it is important for the team members to understand the challenges that the developers face. DevRel under engineering is technical in nature and is best fitted to solve the challenges faced by developers. For me, this seems apt.
+
+However, DevRel can be under marketing as well. The set of activities that such a DevRel team focuses is quite different from the engineering DevRel. DevRel under marketing is more focused on brand awareness, events, content some of which intersect with engineering DevRel. 
+
+DevRel under product aims to be a channel between the community and the product. It is a rare case for DevRel to be under support or customer success. However, the possibility cannot be ruled out. Such team focuses on building better support(documentations, solutions, blogs that address recurring issues) and the community primarily. It is important to understand that this classification is a mere alignment and doesn't mean they exist in isolation from the other interms of functionalities or responsibilities. The weightage given to the activities change based on the alignment.
