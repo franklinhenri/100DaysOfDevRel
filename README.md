@@ -14,3 +14,4 @@
 8. [Importance of Community](07_importance_of_community) - A developer community is crucial to the success of a platform. It is important to nurture the same. 
 9. [Guidelines](08_guidelines_are_important) - Guidelines should guide, not restrict.
 10. [Where does the team sit?](09_devrel_placement) - DevRel can come under engineering, marketing, product or support. 
+11. [Developer Outreach](10_developer_outreach) - Developer Outreach is an important aspect to raise awareness, improve understanding and most importantly, build a relationship with the developers.
