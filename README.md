@@ -18,3 +18,4 @@
 12. [Developer Empathy](11_developer_empathy) - Developer Empathy is the secret sauce for a great DevRel team.
 13. [Developer Retention](12_developer_retention) - A platform that is magnetic to developers is also magnetic to customers. But hey, let's talk retention!
 14. [Learnings #1: Developer Experience (DX) Talks roundup](13_learnings_01_dx_talk_roundup) - Sharing my learnings based on the talks/hands-on sessions that I did.
+15. [Learnings #2: Running an inclusive event](14_learnings_02_running_an_inclusive_event) - Learnings from FreshHuddle,Berlin - The Official Freshworks Developer Event
