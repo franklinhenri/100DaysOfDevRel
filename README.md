@@ -16,3 +16,4 @@
 10. [Where does the team sit?](09_devrel_placement) - DevRel can come under engineering, marketing, product or support. 
 11. [Developer Outreach](10_developer_outreach) - Developer Outreach is an important aspect to raise awareness, improve understanding and most importantly, build a relationship with the developers.
 12. [Developer Empathy](11_developer_empathy) - Developer Empathy is the secret sauce for a great DevRel team.
+13. [Developer Retention](12_developer_retention) - A platform that is magnetic to developers is also magnetic to customers. But hey, let's talk retention!
